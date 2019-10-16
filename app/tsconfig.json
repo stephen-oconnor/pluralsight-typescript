@@ -1,9 +1,7 @@
 {
-    "extends": "../tsconfig.base",
-    "compilerOptions": {
-        "removeComments": true
-    },
-    "include": [
-        "./**/*"
-    ]
+	"extends": "../tsconfig.base",
+	"compilerOptions": {
+		"removeComments": true
+	},
+	"include": ["./**/*"]
 }
